@@ -1,0 +1,30 @@
+body {
+  background-image: url(https://images6.alphacoders.com/407/thumb-1920-407732.jpg);
+  background-position: center top;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: orangered;
+}
+
+h1, h2 {
+  font-family: 'Cinzel', sans-serif;
+  font-size: xx-large;
+  color: lightcyan;
+  text-align: center;
+}
+
+h2 {
+  margin: 40px 0 40px 0;
+}
+
+p {
+  color: lightcyan;
+  font-family: 'Poiret one', sans-serif;
+  font-size: large;
+}
+
+img {
+  width: 200px;
+  height: 280px;
+  margin: 0 80px 0 80px;
+}
